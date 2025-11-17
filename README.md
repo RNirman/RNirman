@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Ravindu Nirman and I'm a Developer</p>
+<h3 align="left">My name is Ravindu Nirman and I'm a Developer</h3>
 
 ###
 
