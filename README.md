@@ -22,7 +22,7 @@
 
 ###
 
-<h1 align="center">Hello and welcome (づ￣ 3￣)づ</h1>
+<h1 align="center">Hello and welcome</h1>
 
 ###
 
