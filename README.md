@@ -75,7 +75,6 @@
 ###
 
 <img src="https://streak-stats.demolab.com?user=RNirman&theme=dark&hide_border=true" alt="RNirman's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RNirman)" />
 
 ###
 
