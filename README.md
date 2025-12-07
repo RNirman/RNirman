@@ -74,9 +74,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RNirman" height="150" alt="languages graph"  />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=RNirman&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="RNirman's GitHub Stats" />
 
 ###
 
