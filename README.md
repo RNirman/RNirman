@@ -72,9 +72,6 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
-
-<img src="https://streak-stats.demolab.com?user=RNirman&theme=dark&hide_border=true" alt="RNirman's GitHub Stats" />
 
 ###
 
